@@ -12,7 +12,7 @@ body
 	margin:auto;
 	height:120px;
 	line-height:120px;
-	background:#417aa8;
+	background:#527C90;
 	color:#fff;
 }
 
@@ -21,7 +21,7 @@ body
 }
 
 .menu{
-	background-color:#527C90;
+	background-color:#417aa8;
 	height:50px;
 	line-height:50px;
 	position:relative;
